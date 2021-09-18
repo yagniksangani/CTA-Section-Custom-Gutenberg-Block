@@ -1,0 +1,31 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+.wp-block-cgb-block-cta-section-block  {
+  background: $red;
+  border: 0.2rem solid $black;
+  color: $black;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem;
+}
+
+.cta-section-container{
+  text-align: center;
+  position: relative;
+  padding: 10px 20px;
+
+  .cta-section-overlay{
+    position: absolute;
+    inset: 0px;
+  }
+
+  * {
+    text-align: center;
+    position: relative;
+    z-index: 1;
+  }
+}
