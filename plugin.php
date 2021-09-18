@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: CTA Section Gutenberg Block Plugin - NEW
+ * Plugin Name: CTA Section Custom GB Block
  * Plugin URI: https://github.com/yagniksangani
  * Description: Used for add call to action section block in gutenberg.
  * Author: Yagnik Sangani
