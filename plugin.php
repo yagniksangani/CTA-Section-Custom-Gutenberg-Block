@@ -5,7 +5,7 @@
  * Description: Used for add call to action section block in gutenberg.
  * Author: Yagnik Sangani
  * Author URI: https://profiles.wordpress.org/yagniksangani/
- * Version: 1.1
+ * Version: 1.1.0
  * Tested up to: 6.5
  * License: GPL2+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.txt
